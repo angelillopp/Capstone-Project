@@ -1,0 +1,16 @@
+                       ExponentialSmoothing Model Results                       
+================================================================================
+Dep. Variable:                    endog   No. Observations:                  611
+Model:             ExponentialSmoothing   SSE                     3746292987.310
+Optimized:                         True   AIC                           9553.280
+Trend:                             None   BIC                           9562.110
+Seasonal:                          None   AICC                          9553.346
+Seasonal Periods:                  None   Date:                 Fri, 13 May 2022
+Box-Cox:                          False   Time:                         16:07:22
+Box-Cox Coeff.:                    None                                         
+==============================================================================
+                       coeff                 code              optimized      
+------------------------------------------------------------------------------
+smoothing_level            0.4885951                alpha                 True
+initial_level              14018.009                  l.0                 True
+------------------------------------------------------------------------------
